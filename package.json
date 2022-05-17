@@ -1,0 +1,22 @@
+{
+  "name": "cypress_inventi",
+  "version": "1.0.0",
+  "description": "Learning Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babetinventi/cypress_inventi.git"
+  },
+  "author": "Babet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babetinventi/cypress_inventi/issues"
+  },
+  "homepage": "https://github.com/babetinventi/cypress_inventi#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
